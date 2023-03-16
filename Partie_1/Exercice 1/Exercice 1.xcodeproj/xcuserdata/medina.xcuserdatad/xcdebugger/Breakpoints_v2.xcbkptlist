@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F22DDA59-A0F3-4519-A931-92481684E6F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46FEE2B5-C9F1-415B-B953-8D8D3375B1E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Exercice 1/Point.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "Point::Point(abs, ord)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46FEE2B5-C9F1-415B-B953-8D8D3375B1E3 - 1745a9d5cc517f63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Point::Point(float, float)"
+                  moduleName = "Exercice 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medina/Downloads/Exercice%201/Exercice%201/Point.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  uuid = "46FEE2B5-C9F1-415B-B953-8D8D3375B1E3 - 1745a9d5cc517f63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Point::Point(float, float)"
+                  moduleName = "Exercice 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medina/Downloads/Exercice%201/Exercice%201/Point.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
